@@ -1,5 +1,7 @@
 openai 
 langchain 
 langchain-openai
+langchain-community 
+langchain-core
 streamlit
-faiss-gpu==1.7.2
+faiss-gpu
