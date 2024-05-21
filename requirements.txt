@@ -2,4 +2,4 @@ openai
 langchain 
 langchain-openai
 streamlit
-faiss-gpu
+faiss-gpu==1.7.2
